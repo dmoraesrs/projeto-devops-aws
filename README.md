@@ -7,6 +7,8 @@
    1.2 Database RDS Mysql
 
    1.3 K8s
+   
+   1.4 terraform
 
 2. CI\CD
 
